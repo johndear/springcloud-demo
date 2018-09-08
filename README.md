@@ -3,7 +3,7 @@
 # maven入门  
 
 * setting.xml    
-
+(```)
   	<localRepository>D:\BrowerDownload\apache-maven-3.5.0\conf\local\repository</localRepository>  
 
   	<!-- Nexus 构件部署用户信息 -->
@@ -54,6 +54,7 @@
    		<activeProfiles>
         		<activeProfile>dev</activeProfile>
     		</activeProfiles>  
+		(```)  
     
     * pom.xml  
     	<!-- 上传构建到远程私服配置，mvn deploy -->
@@ -69,6 +70,7 @@
 	        <url>${repository.url}/releases/</url>  
 	    </repository> 
 	</distributionManagement>
+	
     
     
 
