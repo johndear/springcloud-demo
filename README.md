@@ -1,5 +1,5 @@
 
-# maven入门  
+# maven配置实践  
 
 * setting.xml    
 ```
