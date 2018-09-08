@@ -56,7 +56,7 @@
 ```
    
 * pom.xml  
-    	
+```   	
 	<!-- 上传构建到远程私服配置，mvn deploy -->
 	<distributionManagement>
 		<snapshotRepository>
@@ -70,6 +70,7 @@
 	        <url>${repository.url}/releases/</url>  
 	    </repository> 
 	</distributionManagement>
+```
 	
     
     
