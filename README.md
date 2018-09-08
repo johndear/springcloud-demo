@@ -71,7 +71,7 @@
 	    </repository> 
 	</distributionManagement>
 ```
-<img src="https://pan.baidu.com/s/1K80mnOInabBZE1k0lOdHCQ" width = "450" height = "270" alt="图片名称" align=center /> 
+<img src="https://pan.baidu.com/s/1K80mnOInabBZE1k0lOdHCQ" width = "450" height = "270" alt="maven继承关系" align=center /> 
 
     
     
