@@ -2,16 +2,16 @@
 
 # maven入门  
 
-* setting.xml  
+* setting.xml    
 
-  <localRepository>D:\BrowerDownload\apache-maven-3.5.0\conf\local\repository</localRepository>
+  <localRepository>D:\BrowerDownload\apache-maven-3.5.0\conf\local\repository</localRepository>  
 
   <!-- Nexus 构件部署用户信息 -->
 	<server>
       <id>dev</id>
       <username>admin</username>
       <password>admin123</password>
-    </server>
+    </server>  
     
     <!-- 不同环境配置，从不同库下载、上传, 并打包对应环境配置 -->
 		<profile>
