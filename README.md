@@ -3,7 +3,7 @@
 # maven入门  
 
 * setting.xml    
-(```)
+(```)  
   	<localRepository>D:\BrowerDownload\apache-maven-3.5.0\conf\local\repository</localRepository>  
 
   	<!-- Nexus 构件部署用户信息 -->
