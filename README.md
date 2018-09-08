@@ -71,7 +71,7 @@
 	    </repository> 
 	</distributionManagement>
 ```
-<img src="https://pan.baidu.com/s/1K80mnOInabBZE1k0lOdHCQ" width = "450" height = "270" alt="maven继承关系" align=center /> 
+<img src="https://thumbnail0.baidupcs.com/thumbnail/c9c1a89f91defab8987072852eafebef?fid=3189207338-250528-475511094875812&time=1536418800&rt=sh&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-CYdISTF5ZrnDffYsBQCx6rJk8yw%3D&expires=8h&chkv=0&chkbd=0&chkpc=&dp-logid=5820791610589944698&dp-callid=0&size=c710_u400&quality=100&vuk=-&ft=video" target="_blank" width = "450" height = "270" alt="maven继承关系" align=center /> 
 
     
     
