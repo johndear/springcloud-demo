@@ -4,16 +4,16 @@
 
 * setting.xml    
 
-  <localRepository>D:\BrowerDownload\apache-maven-3.5.0\conf\local\repository</localRepository>  
+  	<localRepository>D:\BrowerDownload\apache-maven-3.5.0\conf\local\repository</localRepository>  
 
-  <!-- Nexus 构件部署用户信息 -->
+  	<!-- Nexus 构件部署用户信息 -->
 	<server>
       <id>dev</id>
       <username>admin</username>
       <password>admin123</password>
     </server>  
     
-    <!-- 不同环境配置，从不同库下载、上传, 并打包对应环境配置 -->
+    	<!-- 不同环境配置，从不同库下载、上传, 并打包对应环境配置 -->
 		<profile>
 			<id>dev</id>
 			<properties>
@@ -51,10 +51,24 @@
 				</pluginRepository>
 			  </pluginRepositories>
 		</profile>
+   		<activeProfiles>
+        		<activeProfile>dev</activeProfile>
+    		</activeProfiles>
     
-    <activeProfiles>
-        <activeProfile>dev</activeProfile>
-    </activeProfiles>
+    * pom.xml
+    	<!-- 上传构建到远程私服配置，mvn deploy -->
+	<distributionManagement>
+		<snapshotRepository>
+			<id>${repository.id}</id>
+			<name>${repository.name}-snapshots</name>
+			<url>${repository.url}/snapshots/</url>
+		</snapshotRepository>  
+	    <repository>  
+	        <id>${repository.id}</id>  
+	        <name>${repository.name}-releases</name>  
+	        <url>${repository.url}/releases/</url>  
+	    </repository> 
+	</distributionManagement>
     
     
 
