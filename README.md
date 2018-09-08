@@ -71,7 +71,12 @@
 	    </repository> 
 	</distributionManagement>
 ```
-<img src="https://thumbnail0.baidupcs.com/thumbnail/c9c1a89f91defab8987072852eafebef?fid=3189207338-250528-475511094875812&time=1536418800&rt=sh&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-CYdISTF5ZrnDffYsBQCx6rJk8yw%3D&expires=8h&chkv=0&chkbd=0&chkpc=&dp-logid=5820791610589944698&dp-callid=0&size=c710_u400&quality=100&vuk=-&ft=video" target="_blank" width = "450" height = "270" alt="maven继承关系" align=center /> 
+<img src="https://thumbnail0.baidupcs.com/thumbnail/c9c1a89f91defab8987072852eafebef?fid=3189207338-250528-475511094875812&time=1536418800&rt=sh&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-CYdISTF5ZrnDffYsBQCx6rJk8yw%3D&expires=8h&chkv=0&chkbd=0&chkpc=&dp-logid=5820791610589944698&dp-callid=0&size=c710_u400&quality=100&vuk=-&ft=video" target="_blank" width = "100%" height = "270" alt="maven继承关系" align=center /> 
+
+
+<img src="https://thumbnail0.baidupcs.com/thumbnail/b9b46592d707bf98e0fb0c00442b418e?fid=3189207338-250528-245902189525537&time=1536418800&rt=sh&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-lzXzpHHun9%2FNaxavLuoSc%2F7oS6U%3D&expires=8h&chkv=0&chkbd=0&chkpc=&dp-logid=5820864608380701415&dp-callid=0&size=c710_u400&quality=100&vuk=-&ft=video" target="_blank" width = "100%" height = "270" alt="maven打包不同环境的配置文件" align=center /> 
+
+
 
     
     
