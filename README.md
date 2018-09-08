@@ -55,7 +55,7 @@
         		<activeProfile>dev</activeProfile>
     		</activeProfiles>
     
-    * pom.xml
+    * pom.xml  
     	<!-- 上传构建到远程私服配置，mvn deploy -->
 	<distributionManagement>
 		<snapshotRepository>
